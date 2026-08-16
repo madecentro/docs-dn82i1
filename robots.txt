@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-fhtn0h.hartawin.space/sitemap.xml
